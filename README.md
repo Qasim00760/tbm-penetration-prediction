@@ -2,7 +2,7 @@
 
 Analysis of a tunnel boring machine (TBM) stroke log and a model that predicts the penetration of the next stroke from machine readings, rock quality and recent strokes. It also flags strokes likely to be slow before they are bored.
 
-**Live demo:** LIVE_DEMO_URL
+**Live demo:** https://mq-tbm-penetration-prediction.streamlit.app/
 
 ![Section trace](reports/figures/section_10_trace.png)
 
