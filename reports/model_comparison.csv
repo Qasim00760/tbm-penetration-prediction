@@ -1,0 +1,9 @@
+inputs,model,R2,MAE_mm_rev
+none,Always predict the average,-0.022,1.04
+previous stroke,Repeat the previous stroke,0.246,0.84
+machine readings and rock quality,Ridge Regression,0.264,0.88
+machine readings and rock quality,Random Forest,0.298,0.87
+machine readings and rock quality,Gradient Boosting,0.321,0.86
+"machine readings, rock quality and history",Ridge Regression,0.444,0.75
+"machine readings, rock quality and history",Random Forest,0.471,0.72
+"machine readings, rock quality and history",Gradient Boosting,0.466,0.73

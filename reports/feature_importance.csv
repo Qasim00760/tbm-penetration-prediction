@@ -1,0 +1,10 @@
+feature,MAE_increase,label
+prev_penetration,0.207,Prev penetration
+thrust_kn,0.11,Thrust force (kN)
+rpm,0.038,Cutterhead RPM
+torque_knm,0.03,Torque (kN-m)
+mean_penetration_last_5,0.023,Mean penetration last 5
+gripper_bar,0.008,Gripper pressure (bar)
+q_value_njc,0.001,Rock mass Q-value (NJC)
+shield_lhs_bar,0.0,Front shield pressure LHS (bar)
+shield_rhs_bar,-0.002,Front shield pressure RHS (bar)
